@@ -1,0 +1,34 @@
+{
+    "concerts": [
+        {
+            "artists": ["Rise Against", "LS Dunes", "Other"],
+            "headliner": "Rise Against",
+            "tour": "Tour Name",
+            "festival": "",
+            "venue": "House of Blues Anahiem",
+            "location": "Anaheim, CA",
+            "date_from": "November 8, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Cage the Elephant", "Sublime", "Fitz and the Tandtrums", "Petty"],
+            "headliner": "Cage the Elephant",
+            "tour": "",
+            "festival": "SEMA Fest",
+            "venue": "Las Vegas Convention Center",
+            "location": "Las Vegas, NV",
+            "date_from": "November 10, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["one", "two"],
+            "headliner": "headliner",
+            "tour": "",
+            "festival": "",
+            "venue": "venue",
+            "location": "Los Angeles, CA",
+            "date_from": "date",
+            "date_to": "date"
+        }
+    ] 
+}

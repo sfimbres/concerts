@@ -6,10 +6,18 @@
         <li><NuxtLink to="/concerts/2">Concert 2</NuxtLink></li>
     </ul>
 
-    <Place />
+    <Card />
+    <Card />
+    <Card />
+    <Card />
+    <Card />
+    <Card />
+    <Card />
+    <Card />
+    <Card />
 
 </template>
 
 <script setup>
-    import Place from '~/components/Place.vue';
+    import Card from '~/components/Card.vue';
 </script>
