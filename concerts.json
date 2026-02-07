@@ -1,0 +1,1024 @@
+{
+    "concerts": [
+        {
+            "artists": ["The Dan Band"],
+            "headliner": "The Dan Band",
+            "tour": "",
+            "festival": "",
+            "venue": "Club Nokia",
+            "location": "",
+            "date_from": "October xx, 2010",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars"],
+            "headliner": "Thirty Seconds to Mars",
+            "tour": "",
+            "festival": "",
+            "venue": "Fox Theater",
+            "location": "Pomona, CA",
+            "date_from": "July 14, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Peter Bjorn and John"],
+            "headliner": "Peter Bjorn and John",
+            "tour": "",
+            "festival": "",
+            "venue": "El Rey Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "May 14, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Death Cab for Cutie"],
+            "headliner": "Death Cab for Cutie",
+            "tour": "",
+            "festival": "",
+            "venue": "Greek Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "August xx, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Three Days Grace"],
+            "headliner": "Three Days Grace",
+            "tour": "",
+            "festival": "",
+            "venue": "Ventura County Fairgrounds",
+            "location": "Ventura, CA",
+            "date_from": "August xx, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Sublime w/ Rome"],
+            "headliner": "Sublime w/ Rome",
+            "tour": "",
+            "festival": "",
+            "venue": "Antelope Valley Fairgrounds",
+            "location": "Lancaster, CA",
+            "date_from": "August 22, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Fox Theater",
+            "location": "Pomona, CA",
+            "date_from": "October 16, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Music Box at the Fonda Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "November 3, 2011",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Universal CityWalk",
+            "location": "Los Angeles, CA",
+            "date_from": "February 5, 2012",
+            "date_to": ""
+        },
+        {
+            "artists": ["Chevelle", "Dead Sara"],
+            "headliner": "Chevelle",
+            "tour": "",
+            "festival": "",
+            "venue": "Club Nokia",
+            "location": "Los Angeles, CA",
+            "date_from": "April 25, 2012",
+            "date_to": ""
+        },
+        {
+            "artists": ["Middle Class Rut", "Beware of Darkness"],
+            "headliner": "Middle Class Rut",
+            "tour": "",
+            "festival": "",
+            "venue": "The Troubadour",
+            "location": "West Hollywood, CA",
+            "date_from": "May 29, 2012",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Boulevard Pool at the Cosmopolitan",
+            "location": "Las Vegas, NV",
+            "date_from": "July 7, 2012",
+            "date_to": ""
+        },
+        {
+            "artists": ["Linkin Park", "Incubus"],
+            "headliner": "Linkin Park",
+            "tour": "Honda Civic Tour",
+            "festival": "",
+            "venue": "Home Depot Center",
+            "location": "Carson, CA",
+            "date_from": "",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation", "Imagine Dragons"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Club Nokia",
+            "location": "Los Angeles, CA",
+            "date_from": "October 11, 2012",
+            "date_to": ""
+        },
+        {
+            "artists": ["Linkin Park", "Rise Against", "Bush", "Garbage", "Slightly Stoopid", "Awolnation", "The Luminers", "Walk the Moon", "The Gaslight Anthem", "Two Door Cinema Club", "Youngblood Hawke"],
+            "headliner": "Linkin Park",
+            "tour": "",
+            "festival": "Almost Acoustic Christmas",
+            "venue": "Gibson Amphitheatre",
+            "location": "Los Angeles, CA",
+            "date_from": "December 8, 2012",
+            "date_to": ""
+        },
+        {
+            "artists": ["Green Day"],
+            "headliner": "Green Day",
+            "tour": "",
+            "festival": "",
+            "venue": "Los Angeles Memorial Sports Arena",
+            "location": "Los Angeles, CA",
+            "date_from": "April xx, 2013",
+            "date_to": ""
+        },
+        {
+            "artists": ["System of a Down"],
+            "headliner": "System of a Down",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Bowl",
+            "location": "Los Angeles, CA",
+            "date_from": "July 29, 2013",
+            "date_to": ""
+        },
+        {
+            "artists": ["Blink-182", "The Offspring", "Thirty Seconds to Mars", "Atlas Genius", "New Politics", "Dirty Heads", "Fitz and the Tantrums", "iamdynamite", "Jimmy Eat World", "Silversun Pickups", "Wavves"],
+            "headliner": "Blink-182",
+            "tour": "",
+            "festival": "91X Fest",
+            "venue": "Sleep Train Amphitheatre",
+            "location": "Chula Vista, CA",
+            "date_from": "September 20, 2013",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars", "Panic! at the Disco", "New Politics"],
+            "headliner": "Thirty Seconds to Mars",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Bowl",
+            "location": "Los Angeles, CA",
+            "date_from": "October 12, 2013",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars", "Panic! at the Disco", "New Politics"],
+            "headliner": "Thirty Seconds to Mars",
+            "tour": "",
+            "festival": "",
+            "venue": "The Joint at Hard Rock Hotel",
+            "location": "Las Vegas, NV",
+            "date_from": "November 13, 2013",
+            "date_to": ""
+        },
+        {
+            "artists": ["Chevelle"],
+            "headliner": "Chevelle",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "July 11, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["Sublime w/ Rome"],
+            "headliner": "Sublime w/ Rome",
+            "tour": "",
+            "festival": "",
+            "venue": "Antelope Valley Fairgrounds",
+            "location": "Lancaster, CA",
+            "date_from": "August 16, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco", "Walk the Moon"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "Greek Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "August 26, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["Linkin Park", "Thirty Seconds to Mars", "AFI"],
+            "headliner": "Linkin Park",
+            "tour": "Carnivores Tour",
+            "festival": "",
+            "venue": "Hollywood Bowl",
+            "location": "Los Angeles, CA",
+            "date_from": "September 15, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["Rise Against"],
+            "headliner": "Rise Against",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "September 16 or 17, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars"],
+            "headliner": "Thirty Seconds to Mars",
+            "tour": "",
+            "festival": "",
+            "venue": "Boulevard Pool at the Cosmopolitan",
+            "location": "Las Vegas, NV",
+            "date_from": "September 20, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Shrine Auditorium",
+            "location": "Los Angeles, CA",
+            "date_from": "November 14, 2014",
+            "date_to": ""
+        },
+        {
+            "artists": ["System of a Down"],
+            "headliner": "System of a Down",
+            "tour": "",
+            "festival": "",
+            "venue": "The Forum",
+            "location": "Inglewood, CA",
+            "date_from": "April 6, 2015",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Offspring"],
+            "headliner": "The Offspring",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "July 31, 2015",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "August 1, 2015",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars"],
+            "headliner": "",
+            "tour": "",
+            "festival": "Camp Mars",
+            "venue": "Camp Mt. Crags",
+            "location": "Malibu, CA",
+            "date_from": "August 22, 2015",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "The Tower Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "January 19, 2016",
+            "date_to": ""
+        },
+        {
+            "artists": ["Coldplay"],
+            "headliner": "Coldplay",
+            "tour": "",
+            "festival": "",
+            "venue": "Rose Bowl",
+            "location": "Pasadena, CA",
+            "date_from": "August 21, 2016",
+            "date_to": ""
+        },
+        {
+            "artists": ["AFI"],
+            "headliner": "AFI",
+            "tour": "",
+            "festival": "",
+            "venue": "Observatory North Park",
+            "location": "San Diego, CA",
+            "date_from": "February 20, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Observatory North Park",
+            "location": "San Diego, CA",
+            "date_from": "May 26, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "KROQ Summer Pool Party",
+            "venue": "Morongo Casino Resort & Spa",
+            "location": "Cabazon, CA",
+            "date_from": "July 22, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["AFI", "Circa Survive"],
+            "headliner": "AFI",
+            "tour": "",
+            "festival": "",
+            "venue": "Brooklyn Bowl",
+            "location": "Las Vegas, NV",
+            "date_from": "July 29, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People", "Bleachers", "HAIM", "Lord Huron", "MAGIC GIANT", "Sir Sly", "The Head and the Heart", "Vance Joy", "Youngr"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "Alt Summer Camp",
+            "venue": "Queen Mary Park",
+            "location": "Long Beach, CA",
+            "date_from": "August 19, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Chevelle"],
+            "headliner": "Chevelle",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "August 2, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Muse", "Thirty Seconds to Mars", "PVRIS"],
+            "headliner": "Muse",
+            "tour": "",
+            "festival": "",
+            "venue": "Shoreline Amphitheatre",
+            "location": "Mountain View, CA",
+            "date_from": "September 15, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Coldplay"],
+            "headliner": "Coldplay",
+            "tour": "",
+            "festival": "",
+            "venue": "Qualcomm Stadium",
+            "location": "San Diego, CA",
+            "date_from": "October 8, 2017",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "March 15, 2018",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "March 15, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "Observatory OC",
+            "location": "Santa Ana, CA",
+            "date_from": "March 27, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Blink-182", "Panic! at the Disco", "Thirty Seconds to Mars", "Rise Against", "Awolnation", "Mike Shinoda", "Alice Merton", "Bishop Briggs", "Cold War Kids", "Dirty Heads", "James Bay", "Manchester Orchestra", "Mt. Joy", "Nothing But Thieves", "The War on Drugs"],
+            "headliner": "Blink-182",
+            "tour": "",
+            "festival": "KROQ Weenie Roast",
+            "venue": "Dignity Health Sports Park",
+            "location": "Carson, CA",
+            "date_from": "May 12, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars"],
+            "headliner": "Thirty Seconds to Mars",
+            "tour": "",
+            "festival": "",
+            "venue": "The Forum",
+            "location": "Inglewood, CA",
+            "date_from": "July 19, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "Staples Center",
+            "location": "Los Angeles, CA",
+            "date_from": "August 15, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "T-Mobile Arena",
+            "location": "Las Vegas, NV",
+            "date_from": "August 18, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["System of a Down", "Incubus", "At The Drive In", "Clutch", "Pallbearer", "Skeletonwitch"],
+            "headliner": "System of a Down",
+            "tour": "",
+            "festival": "",
+            "venue": "Glen Helen Amphitheater ",
+            "location": "San Bernardino, CA",
+            "date_from": "October 13, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Mike Shinoda"],
+            "headliner": "Mike Shinoda",
+            "tour": "",
+            "festival": "",
+            "venue": "House of Blues Anaheim",
+            "location": "Anahiem, CA",
+            "date_from": "November 5, 2018",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Los Angeles, CA",
+            "date_from": "February 15, 2019",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Livestream",
+            "date_from": "September 30, 2020",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "November 18, 2021",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "November 19, 2021",
+            "date_to": ""
+        },
+        {
+            "artists": ["System of a Down", "Korn"],
+            "headliner": "System of a Down",
+            "tour": "",
+            "festival": "",
+            "venue": "BMO Stadium",
+            "location": "Los Angeles, CA",
+            "date_from": "February 4, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["grandson"],
+            "headliner": "grandson",
+            "tour": "",
+            "festival": "",
+            "venue": "February 27, 2022",
+            "location": "Los Angeles, CA",
+            "date_from": "February 27, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["My Chemical Romance"],
+            "headliner": "My Chemical Romance",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "October 17, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "October 19, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["Rise Against", "The Used"],
+            "headliner": "Rise Against",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "July 19, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["Death Cab for Cutie"],
+            "headliner": "Death Cab for Cutie",
+            "tour": "",
+            "festival": "",
+            "venue": "House of Blues Anaheim",
+            "location": "Anahiem, CA",
+            "date_from": "October 18, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "November 11, 2022",
+            "date_to": ""
+        },
+        {
+            "artists": ["AFI"],
+            "headliner": "AFI",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "March 11, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Muse", "Evanescence"],
+            "headliner": "Muse",
+            "tour": "",
+            "festival": "",
+            "venue": "Crypto Arena",
+            "location": "Los Angeles, CA",
+            "date_from": "April 6, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["grandson", "K.Flay"],
+            "headliner": "grandson",
+            "tour": "",
+            "festival": "",
+            "venue": "Wiltern Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "June 27, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Metallica"],
+            "headliner": "Metallica",
+            "tour": "",
+            "festival": "",
+            "venue": "Sofi Stadium",
+            "location": "Inglewood, CA",
+            "date_from": "August 25, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Coldplay"],
+            "headliner": "Coldplay",
+            "tour": "",
+            "festival": "",
+            "venue": "Rose Bowl",
+            "location": "Pasadena, CA",
+            "date_from": "September 30, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Chevelle", "Three Days Grace"],
+            "headliner": "Three Days Grace",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "October 3, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Majestic Ventura Theatre",
+            "location": "Ventura, CA",
+            "date_from": "October 7, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["311", "Awolnation"],
+            "headliner": "311",
+            "tour": "",
+            "festival": "",
+            "venue": "Yaamava' Theater",
+            "location": "Highland, CA",
+            "date_from": "October 8, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Dead Sara"],
+            "headliner": "Dead Sara",
+            "tour": "",
+            "festival": "",
+            "venue": "The Echo",
+            "location": "Los Angeles, CA",
+            "date_from": "October 31, 2023",
+            "date_to": ""
+        },
+        {
+            "artists": ["Silversun Pickups"],
+            "headliner": "Silversun Pickups",
+            "tour": "",
+            "festival": "",
+            "venue": "Majestic Ventura Theatre",
+            "location": "Ventura, CA",
+            "date_from": "February 26, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Coverups"],
+            "headliner": "The Coverups",
+            "tour": "",
+            "festival": "",
+            "venue": "Tiki Bar",
+            "location": "Costa Mesa, CA",
+            "date_from": "April 20, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Postal Service", "Death Cab for Cutie", "Phoenix", "Passion Pit", "Two Door Cinema Club", "Phantogram", "Tegan and Sara", "Sleigh Bells", "The Return of Gossip", "CSS", "Be Your Own Pet", "Them Jeans", "The War on Drugs", "Mike Snow", "Metric", "ALVVAYS", "Washed Out", "Broken Social Scene", "Warpaint","The Go! Team", "Chris Cruse"],
+            "headliner": "The Postal Service", 
+            "tour": "",
+            "festival": "Just Like Heaven",
+            "venue": "Brookside at the Rose Bowl",
+            "location": "Pasadena, CA",
+            "date_from": "May xx, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Offspring"],
+            "headliner": "The Offspring",
+            "tour": "30th Anniversary of Smash",
+            "festival": "",
+            "venue": "Honda Center",
+            "location": "Anahiem, CA",
+            "date_from": "June 1, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Cage the Elephant"],
+            "headliner": "Cage the Elephant",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "July 7, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Sublime w/ Rome"],
+            "headliner": "Sublime w/ Rome",
+            "tour": "",
+            "festival": "",
+            "venue": "Ventura County Fairgrounds",
+            "location": "Ventura, CA",
+            "date_from": "August 2, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foo Fighters"],
+            "headliner": "Foo Fighters",
+            "tour": "",
+            "festival": "",
+            "venue": "BMO Stadium",
+            "location": "Los Angeles, CA",
+            "date_from": "August 9, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["311", "Awolnation", "Neon Trees"],
+            "headliner": "311",
+            "tour": "",
+            "festival": "",
+            "venue": "Cal Coast Credit Union Open Air Theatre",
+            "location": "San Diego, CA",
+            "date_from": "August 25, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Two Door Cinema Club"],
+            "headliner": "Two Door Cinema Club",
+            "tour": "",
+            "festival": "",
+            "venue": "YouTube Theatre",
+            "location": "Inglewood, CA",
+            "date_from": "September 18, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Korn", "Evanescence", "Gojira", "Daron Malakian and Scars on Broadway", "Spiritbox", "Vended"],
+            "headliner": "Korn",
+            "tour": "",
+            "festival": "",
+            "venue": "BMO Stadium",
+            "location": "Los Angeles, CA",
+            "date_from": "October 5, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Cage the Elephant", "Sublime", "Fitz and the Tantrums", "Petey"],
+            "headliner": "Cage the Elephant",
+            "tour": "",
+            "festival": "SEMA Fes",
+            "venue": "Las Vegas Convention Center",
+            "location": "Las Vegas, NV",
+            "date_from": "November 10, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Rise Against", "L.S. Dunes", "Cloud Nothings"],
+            "headliner": "Rise Against",
+            "tour": "",
+            "festival": "",
+            "venue": "House of Blues Anaheim",
+            "location": "Anahiem, CA",
+            "date_from": "November 20, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Billie Eilish"],
+            "headliner": "Billie Eilish",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "December 21, 2024",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "February 6, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Foster the People"],
+            "headliner": "Foster the People",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "February 7, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Deftones"],
+            "headliner": "Deftones",
+            "tour": "",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "March 6, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Barbarians of California"],
+            "headliner": "The Barbarians of California",
+            "tour": "",
+            "festival": "",
+            "venue": "The Echo",
+            "location": "Los Angeles, CA",
+            "date_from": "March 8, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "Observatory OC",
+            "location": "Los Angeles, CA",
+            "date_from": "March 28, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"],
+            "headliner": "Awolnation",
+            "tour": "",
+            "festival": "",
+            "venue": "The Belasco",
+            "location": "Los Angeles, CA",
+            "date_from": "May 10, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Black Keys"],
+            "headliner": "The Black Keys",
+            "tour": "",
+            "festival": "",
+            "venue": "Greek Theatre",
+            "location": "Los Angeles, CA",
+            "date_from": "June 3, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["grandson"],
+            "headliner": "grandson",
+            "tour": "",
+            "festival": "",
+            "venue": "El Cid",
+            "location": "Los Angeles, CA",
+            "date_from": "June 5, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["My Chemical Romance"],
+            "headliner": "My Chemical Romance",
+            "tour": "",
+            "festival": "",
+            "venue": "Dodgers Stadium",
+            "location": "Los Angeles, CA",
+            "date_from": "July 26, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Awolnation"," Gym Class Heroes"],
+            "headliner": "",
+            "tour": "",
+            "festival": "",
+            "venue": "Fremont Street Experience",
+            "location": "Las Vegas, NV",
+            "date_from": "August 9, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Thirty Seconds to Mars"],
+            "headliner": "Thirty Seconds to Mars",
+            "tour": "A Beautiful Lie 20th Anniversary",
+            "festival": "",
+            "venue": "Kia Forum",
+            "location": "Inglewood, CA",
+            "date_from": "August 16, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Michael Angelakos is Passion Pit"],
+            "headliner": "",
+            "tour": "",
+            "festival": "",
+            "venue": "The Moroccan Lounge",
+            "location": "Los Angeles, CA",
+            "date_from": "August 20, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Linkin Park"],
+            "headliner": "Linkin Park",
+            "tour": "",
+            "festival": "",
+            "venue": "Intuit Dome",
+            "location": "Inglewood, CA",
+            "date_from": "September 13, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Chevelle"],
+            "headliner": "Chevelle",
+            "tour": "",
+            "festival": "",
+            "venue": "Hollywood Palladium",
+            "location": "Los Angeles, CA",
+            "date_from": "September 26, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Strokes"],
+            "headliner": "The Strokes",
+            "tour": "",
+            "festival": "",
+            "venue": "The Chelsea at The Cosmopolitan of Las Vegas",
+            "location": "Las Vegas, NV",
+            "date_from": "September 27, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Chappell Roan"],
+            "headliner": "Chappell Roan",
+            "tour": "",
+            "festival": "",
+            "venue": "Brookside at the Rose Bowl",
+            "location": "Pasadena, CA",
+            "date_from": "October 11, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["Panic! at the Disco", "Blink-182", "Weezer", "Avril Lavigne", "The Offspring", "Bad Religion", "All Time Low"],
+            "headliner": "Panic! at the Disco",
+            "tour": "",
+            "festival": "When We Were Young",
+            "venue": "Las Vegas Festival Grounds",
+            "location": "Las Vegas, NV",
+            "date_from": "October 19, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["The Barbarians of California"],
+            "headliner": "The Barbarians of California",
+            "tour": "",
+            "festival": "",
+            "venue": "The Roxy",
+            "location": "West Hollywood, CA",
+            "date_from": "November 10, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["grandson"],
+            "headliner": "grandson",
+            "tour": "",
+            "festival": "",
+            "venue": "The Bellwether",
+            "location": "Los Angeles, CA",
+            "date_from": "November 19, 2025",
+            "date_to": ""
+        },
+        {
+            "artists": ["She Wants Revenge"],
+            "headliner": "She Wants Revenge",
+            "tour": "",
+            "festival": "",
+            "venue": "Fox Theater",
+            "location": "Pomona, CA",
+            "date_from": "December 5, 2025",
+            "date_to": ""
+        }
+    ] 
+}
