@@ -9,13 +9,19 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: [
-    '@nuxt/content',
-  ],
+  modules: ['@nuxt/content', 'nuxt-studio'],
   content: {
     database: {
       type: 'sqlite',
       filename: './.data/contents.sqlite',  
+    }
+  },
+  nitro: {
+    prerender: {
+      // Pre-render the homepage
+      routes: ['/'],
+      // Then crawl all the links on the page
+      crawlLinks: true
     }
   }
 })
