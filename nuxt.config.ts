@@ -9,4 +9,13 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  modules: [
+    '@nuxt/content',
+  ],
+  content: {
+    database: {
+      type: 'sqlite',
+      filename: './.data/contents.sqlite',  
+    }
+  }
 })

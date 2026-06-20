@@ -10,12 +10,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/content": "^3.13.0",
+    "better-sqlite3": "^12.10.0",
     "nuxt": "^3.13.0",
     "vue": "latest"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.41",
-    "tailwindcss": "^3.4.10"
+    "tailwindcss": "^3.4.10",
+    "zod": "^4.4.3"
   }
 }
