@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   content: {
     database: {
       type: 'sqlite',
-      filename: './.data/contents.sqlite',  
+      filename: '/tmp/contents.sqlite',
     }
   },
   nitro: {
