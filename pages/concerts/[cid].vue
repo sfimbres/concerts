@@ -14,14 +14,16 @@ console.log('route parms:', route.params);
 console.log('route query:', route.query);
 //console.log('route cid:', cid);
 
-const { data: concert, error } = await useAsyncData(`concert-${String(route.params.path ?? '')}`, async () => {
-  const cid = String(route.query.cid ?? '');
-  console.log('route cid:', cid);
-  if (!cid) return null;
-  const data = await queryCollection('concerts').where('cid', '=', cid).first();
-  console.log('data:', data);
-  return data ?? null;
-});
+const { data: concert, error } = await useAsyncData(
+  () => `concert-${String(route.params.cid ?? '')}`,
+  async () => {
+    const cid = String(route.params.cid.split('-')[0] ?? '');
+    console.log('Extracted cid:', cid);
+    if (!cid) return null;
+    const data = await queryCollection('concerts').where('cid', '=', cid).first();
+    return data ?? null;
+  }
+);
 
 console.log('Concert:', concert.value);
 console.log('Concert id :', concert.value.cid);

@@ -1,5 +1,6 @@
 <template>
-    <NuxtLink :to="{ path: `/concerts/${slugify(concert.headliner)}-${formatDate(concert.date_from)}`, query: {cid:cid} }">
+    <!-- <NuxtLink :to="{ path: `/concerts/${slugify(concert.headliner)}-${formatDate(concert.date_from)}`, query: {cid:cid} }"> -->
+    <NuxtLink :to="{ path: `/concerts/${cid}-${slugify(concert.headliner)}-${formatDate(concert.date_from)}` }">
         <div class="container mx-auto my-4 px-4 aspect-video bg-blue-100 flex flex-col-reverse">
             <div class="w-9/12 my-4">
                 <h2 class="text-xl font-bold">{{ concert.headliner }}</h2>
