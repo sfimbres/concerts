@@ -16,6 +16,14 @@ export default defineNuxtConfig({
       filename: '/tmp/contents.sqlite',
     }
   },
+  studio: {
+    repository: {
+      provider: 'github',
+      owner: 'sfimbres',
+      repo: 'concerts',
+      branch: 'main'
+    }
+  },
   nitro: {
     prerender: {
       // Pre-render the homepage
