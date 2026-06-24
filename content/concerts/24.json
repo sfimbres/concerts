@@ -1,0 +1,15 @@
+{
+    "artists": [
+        "Linkin Park",
+        "Thirty Seconds to Mars",
+        "AFI"
+    ],
+    "headliner": "Linkin Park",
+    "tour": "Carnivores Tour",
+    "festival": "",
+    "venue": "Hollywood Bowl",
+    "location": "Los Angeles, CA",
+    "date_from": "September 15, 2014",
+    "date_to": "",
+    "cid": 24
+}

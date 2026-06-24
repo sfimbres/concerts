@@ -1,13 +1,13 @@
 {
-  "artists": [
-    "Test"
-  ],
-  "cid": "3",
-  "date_from": "July 14, 2011",
-  "date_to": "",
-  "festival": "",
-  "headliner": "Test",
-  "location": "Test, CA",
-  "tour": "",
-  "venue": "Test"
+    "artists": [
+        "Peter Bjorn and John"
+    ],
+    "headliner": "Peter Bjorn and John",
+    "tour": "",
+    "festival": "",
+    "venue": "El Rey Theatre",
+    "location": "Los Angeles, CA",
+    "date_from": "May 14, 2011",
+    "date_to": "",
+    "cid": 3
 }

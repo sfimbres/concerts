@@ -1,0 +1,27 @@
+{
+    "artists": [
+        "Blink-182",
+        "Panic! at the Disco",
+        "Thirty Seconds to Mars",
+        "Rise Against",
+        "Awolnation",
+        "Mike Shinoda",
+        "Alice Merton",
+        "Bishop Briggs",
+        "Cold War Kids",
+        "Dirty Heads",
+        "James Bay",
+        "Manchester Orchestra",
+        "Mt. Joy",
+        "Nothing But Thieves",
+        "The War on Drugs"
+    ],
+    "headliner": "Blink-182",
+    "tour": "",
+    "festival": "KROQ Weenie Roast",
+    "venue": "Dignity Health Sports Park",
+    "location": "Carson, CA",
+    "date_from": "May 12, 2018",
+    "date_to": "",
+    "cid": 44
+}

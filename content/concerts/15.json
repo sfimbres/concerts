@@ -1,0 +1,23 @@
+{
+    "artists": [
+        "Linkin Park",
+        "Rise Against",
+        "Bush",
+        "Garbage",
+        "Slightly Stoopid",
+        "Awolnation",
+        "The Luminers",
+        "Walk the Moon",
+        "The Gaslight Anthem",
+        "Two Door Cinema Club",
+        "Youngblood Hawke"
+    ],
+    "headliner": "Linkin Park",
+    "tour": "",
+    "festival": "Almost Acoustic Christmas",
+    "venue": "Gibson Amphitheatre",
+    "location": "Los Angeles, CA",
+    "date_from": "December 8, 2012",
+    "date_to": "",
+    "cid": 15
+}

@@ -1,0 +1,19 @@
+{
+    "artists": [
+        "Panic! at the Disco",
+        "Blink-182",
+        "Weezer",
+        "Avril Lavigne",
+        "The Offspring",
+        "Bad Religion",
+        "All Time Low"
+    ],
+    "headliner": "Panic! at the Disco",
+    "tour": "",
+    "festival": "When We Were Young",
+    "venue": "Las Vegas Festival Grounds",
+    "location": "Las Vegas, NV",
+    "date_from": "October 19, 2025",
+    "date_to": "",
+    "cid": 99
+}
