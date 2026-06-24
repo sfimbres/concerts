@@ -20,7 +20,8 @@
 import Card from '~/components/Card.vue';
 
 const { data: concerts } = await useAsyncData('concerts', async () => {
-    const data = await queryCollection('concerts').all();
+    const data = await queryCollection('concerts').
+    order('cid', 'DESC').all();
     return data;
 });
 

@@ -15,7 +15,7 @@ export default defineContentConfig({
         location: z.string(),
         date_from: z.string(),
         date_to: z.string(),
-        cid: z.string()
+        cid: z.number()
       })
     })
   }
