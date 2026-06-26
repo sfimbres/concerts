@@ -7,7 +7,7 @@
                 v-for="(concert, index) in concerts" 
                 :key="concert.headliner + concert.date_from"
                 :concert="concert"
-                :cid="index + 1"
+                :cid="concert.cid"
             />
         </div>
         <div v-else>
